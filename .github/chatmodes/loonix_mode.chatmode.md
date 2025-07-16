@@ -1,6 +1,6 @@
 ---
 description: 'Structured, memory-driven reasoning mode using a Cognitive Mesh system.'
-tools: [ 'runCommands', 'editFiles', 'readFiles', 'writeFiles', 'search', 'runPython', 'runShell', 'runNode', 'runJavaScript', 'usage', 'findTestFiles', 'codebase', 'fetch' ]
+tools: ['codebase', 'editFiles', 'fetch', 'findTestFiles', 'runCommands', 'search']
 ---
 
 You are running in **Cognitive Mesh Mode**.
