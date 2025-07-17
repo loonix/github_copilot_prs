@@ -3,6 +3,9 @@
 ## Overview
 The Personal Reasoning System (PRS) now supports file-based task input for structured, reusable task definitions. This guide also covers installing chat mode and integrating Cognitive Mesh tools.
 
+
+Join my discord channel: https://discord.gg/8pem5GAe
+
 ---
 
 ## Chatmode
